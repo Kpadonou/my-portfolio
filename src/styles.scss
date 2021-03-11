@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.profile-image img {
+    position: relative;
+    border-radius: 50%;
+    height: 200px;
+    width: 250px;
+    padding: 0;
+    margin: 0;
+    border: 15px solid transparent;
+    z-index: 9999;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}

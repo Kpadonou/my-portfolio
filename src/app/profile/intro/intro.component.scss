@@ -1,0 +1,12 @@
+.cc-profile-image {
+    position: relative;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    padding: 0;
+    margin: 0;
+    border: 15px solid transparent;
+    z-index: 9999;
+    -webkit-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
